@@ -1,6 +1,6 @@
 Title :- Get Gold-Silver-Crytpo prices in python
 
-About :- This is a CLI based Data Extraction project written in python using both the prominent ways :- API requests and webscraping for extracting relevant information and displayng on CMD.
+About :- This is a CLI based Data Extraction project written in python using both the prominent ways :- API requests and webscraping for extracting relevant information and displaying on CMD.
 
 Important :- This is a CLI based python program ; to run use command python p1.py on CMD.
 
